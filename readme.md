@@ -2,7 +2,7 @@
 <p align="center">
   Kilka z moich prac graficznych / A few of my graphic projects
 </p>
-###prosta strona internetowa
+> prosta strona internetowa
 <p align="center">
   
   
