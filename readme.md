@@ -4,14 +4,14 @@
 </p>
 
 <p align="center">
-  prosta strona internetowa
+  ###prosta strona internetowa
   
   ![witrynagif](https://user-images.githubusercontent.com/62144769/117441095-2ee7c200-af35-11eb-827c-fd736168f3c0.gif)
 </p>
 
 
 <p align="center">
-grafika wektorowa -  ikony zrealizowane na stażu
+  ###grafika wektorowa -  przykład ikon realizowanych na stażu dla aplikacji livolink 
   
   ![avg](https://user-images.githubusercontent.com/62144769/117444978-758beb00-af3a-11eb-9e58-9a0ec4662561.JPG)
   
