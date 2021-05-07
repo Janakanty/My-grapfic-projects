@@ -19,8 +19,9 @@
   
   ![avg2](https://user-images.githubusercontent.com/62144769/117445021-80468000-af3a-11eb-9af4-2aaa6384d311.JPG)
   
-  
-  
 </p>
 
+> logo realizowane dla jednego z moich upadłych projektów 
+
+![logo](https://user-images.githubusercontent.com/62144769/117446567-8c334180-af3c-11eb-89f3-60a2b4bb9af5.png)
 
