@@ -3,14 +3,6 @@
   Kilka z moich prac graficznych / A few of my graphic projects
 </p>
 
-> prosta strona internetowa
-
-<p align="center">
-  
-  
-  ![witrynagif](https://user-images.githubusercontent.com/62144769/117441095-2ee7c200-af35-11eb-827c-fd736168f3c0.gif)
-</p>
-
 > grafika wektorowa -  przykład ikon realizowanych na stażu dla aplikacji livolink 
 <p align="center">
   
@@ -28,3 +20,11 @@
 > ulotka realizowana dla jednej ze szkół ponadpodstawowych
 >
 ![ulotkaZSPniemce](https://user-images.githubusercontent.com/62144769/117446673-b2f17800-af3c-11eb-84d6-fb353128866d.png)
+
+> prosta strona internetowa
+
+<p align="center">
+  
+  
+  ![witrynagif](https://user-images.githubusercontent.com/62144769/117441095-2ee7c200-af35-11eb-827c-fd736168f3c0.gif)
+</p>
